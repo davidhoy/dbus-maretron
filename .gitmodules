@@ -1,0 +1,7 @@
+[submodule "NMEA2000"]
+	path = NMEA2000
+	url = https://github.com/ttlappalainen/NMEA2000.git
+[submodule "NMEA2000_socketCAN"]
+	path = NMEA2000_socketCAN
+	url = https://github.com/thomasonw/NMEA2000_socketCAN.git
+
